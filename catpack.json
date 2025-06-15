@@ -63,6 +63,11 @@
       "path": "assets/jagertechnoblade.png"
     },
     {
+      "startTime": { "day": 28, "month": 10 },
+      "endTime": { "day": 28, "month": 10 },
+      "path": "assets/jagertechnoblade.png"
+    },
+    {
       "startTime": { "day": 17, "month": 5 },
       "endTime": { "day": 17, "month": 5 },
       "path": "assets/jagermcanneversary.png"
