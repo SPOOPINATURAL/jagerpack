@@ -1,6 +1,6 @@
 # JägerPack
 [here]: https://prismlauncher.org/wiki/getting-started/catpacks/
-This is a CatPack for Minecraft Prism launcher featuring Jäger from R6 Siege. Has a mix of variants including Christmas, Halloween, a couple German Holidays, Pride Month, and some others!
+This is a CatPack for Minecraft Prism Launcher featuring Jäger from R6 Siege. Has a mix of variants including Christmas, Halloween, a couple German Holidays, Pride Month, and some others!
 
 ![example](https://github.com/user-attachments/assets/e1e4a17f-ff1e-401a-873e-28d5fecb9e5c)
 ### Index
