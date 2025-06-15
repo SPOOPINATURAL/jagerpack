@@ -5,152 +5,152 @@
     {
       "startTime": { "day": 9, "month": 10 },
       "endTime": { "day": 9, "month": 10 },
-      "path": "jageruserbday.png"
+      "path": "assets/jageruserbday.png"
     },
     {
       "startTime": { "day": 30, "month": 10 },
       "endTime": { "day": 31, "month": 10 },
-      "path": "jagerhalloween.png"
+      "path": "assets/jagerhalloween.png"
     },
     {
       "startTime": { "day": 20, "month": 12 },
       "endTime": { "day": 26, "month": 12 },
-      "path": "jagerchristmas.png"
+      "path": "assets/jagerchristmas.png"
     },
     {
       "startTime": { "day": 9, "month": 3 },
       "endTime": { "day": 9, "month": 3 },
-      "path": "jagerbday.png"
+      "path": "assets/jagerbday.png"
     },
     {
       "startTime": { "day": 11, "month": 11 },
       "endTime": { "day": 11, "month": 11 },
-      "path": "jagerww1.png"
+      "path": "assets/jagerww1.png"
     },
     {
       "startTime": { "day": 28, "month": 7 },
       "endTime": { "day": 28, "month": 7 },
-      "path": "jagerww1.png"
+      "path": "assets/jagerww1.png"
     },
     {
       "startTime": { "day": 1, "month": 4 },
       "endTime": { "day": 30, "month": 4 },
-      "path": "jagerautismmonth.png"
+      "path": "assets/jagerautismmonth.png"
     },
     {
       "startTime": { "day": 5, "month": 10 },
       "endTime": { "day": 5, "month": 10 },
-      "path": "jagererntedankfest.png"
+      "path": "assets/jagererntedankfest.png"
     },
     {
       "startTime": { "day": 3, "month": 10 },
       "endTime": { "day": 3, "month": 10 },
-      "path": "jagernationalfeirtag.png"
+      "path": "assets/jagernationalfeirtag.png"
     },
     {
       "startTime": { "day": 20, "month": 7 },
       "endTime": { "day": 20, "month": 7 },
-      "path": "jagermoonjul20.png"
+      "path": "assets/jagermoonjul20.png"
     },
     {
       "startTime": { "day": 30, "month": 12 },
       "endTime": { "day": 1, "month": 1 },
-      "path": "jagernewyear.png"
+      "path": "assets/jagernewyear.png"
     },
     {
       "startTime": { "day": 1, "month": 6 },
       "endTime": { "day": 1, "month": 6 },
-      "path": "jagertechnoblade.png"
+      "path": "assets/jagertechnoblade.png"
     },
     {
       "startTime": { "day": 17, "month": 5 },
       "endTime": { "day": 17, "month": 5 },
-      "path": "jagermcanneversary.png"
+      "path": "assets/jagermcanneversary.png"
     },
     {
       "startTime": { "day": 1, "month": 12 },
       "endTime": { "day": 1, "month": 12 },
-      "path": "jagerr6anneversary.png"
+      "path": "assets/jagerr6anneversary.png"
     },
     {
       "startTime": { "day": 14, "month": 2 },
       "endTime": { "day": 14, "month": 2 },
-      "path": "jagervday.png"
+      "path": "assets/jagervday.png"
     },
     {
       "startTime": { "day": 2, "month": 6 },
       "endTime": { "day": 2, "month": 6 },
-      "path": "jagerpride/jagerpride1.png"
+      "path": "assets/jagerpride/jagerpride1.png"
     },
     {
       "startTime": { "day": 3, "month": 6 },
       "endTime": { "day": 4, "month": 6 },
-      "path": "jagerpride/jagerpride2.png"
+      "path": "assets/jagerpride/jagerpride2.png"
     },
     {
       "startTime": { "day": 5, "month": 6 },
       "endTime": { "day": 6, "month": 6 },
-      "path": "jagerpride/jagerpride3.png"
+      "path": "assets/jagerpride/jagerpride3.png"
     },
     {
       "startTime": { "day": 7, "month": 6 },
       "endTime": { "day": 8, "month": 6 },
-      "path": "jagerpride/jagerpride4.png"
+      "path": "assets/jagerpride/jagerpride4.png"
     },
     {
       "startTime": { "day": 9, "month": 6 },
       "endTime": { "day": 10, "month": 6 },
-      "path": "jagerpride/jagerpride5.png"
+      "path": "assets/jagerpride/jagerpride5.png"
     },
     {
       "startTime": { "day": 11, "month": 6 },
       "endTime": { "day": 12, "month": 6 },
-      "path": "jagerpride/jagerpride6.png"
+      "path": "assets/jagerpride/jagerpride6.png"
     },
     {
       "startTime": { "day": 13, "month": 6 },
       "endTime": { "day": 14, "month": 6 },
-      "path": "jagerpride/jagerpride7.png"
+      "path": "assets/jagerpride/jagerpride7.png"
     },
     {
       "startTime": { "day": 15, "month": 6 },
       "endTime": { "day": 16, "month": 6 },
-      "path": "jagerpride/jagerpride8.png"
+      "path": "assets/jagerpride/jagerpride8.png"
     },
     {
       "startTime": { "day": 17, "month": 6 },
       "endTime": { "day": 18, "month": 6 },
-      "path": "jagerpride/jagerpride9.png"
+      "path": "assets/jagerpride/jagerpride9.png"
     },
     {
       "startTime": { "day": 19, "month": 6 },
       "endTime": { "day": 20, "month": 6 },
-      "path": "jagerpride/jagerpride10.png"
+      "path": "assets/jagerpride/jagerpride10.png"
     },
     {
       "startTime": { "day": 21, "month": 6 },
       "endTime": { "day": 22, "month": 6 },
-      "path": "jagerpride/jagerpride11.png"
+      "path": "assets/jagerpride/jagerpride11.png"
     },
     {
       "startTime": { "day": 23, "month": 6 },
       "endTime": { "day": 24, "month": 6 },
-      "path": "jagerpride/jagerpride12.png"
+      "path": "assets/jagerpride/jagerpride12.png"
     },
     {
       "startTime": { "day": 25, "month": 6 },
       "endTime": { "day": 26, "month": 6 },
-      "path": "jagerpride/jagerpride13.png"
+      "path": "assets/jagerpride/jagerpride13.png"
     },
     {
       "startTime": { "day": 27, "month": 6 },
       "endTime": { "day": 28, "month": 6 },
-      "path": "jagerpride/jagerpride14.png"
+      "path": "assets/jagerpride/jagerpride14.png"
     },
     {
       "startTime": { "day": 29, "month": 6 },
       "endTime": { "day": 30, "month": 6 },
-      "path": "jagerpride/jagerpride15.png"
+      "path": "assets/jagerpride/jagerpride15.png"
     }
   ]
 }
